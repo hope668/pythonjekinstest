@@ -1,6 +1,5 @@
 import requests
 import json
-
 url = "https://open.feishu.cn/open-apis/bot/v2/hook/72849d75-820d-4189-9f57-a5fec7d2ea2d"
 payload = json.dumps({
 	"content": "{\"text\":\"test content\"}",
