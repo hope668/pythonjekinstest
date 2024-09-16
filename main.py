@@ -2,7 +2,7 @@ import time
 
 import requests
 import json
-url = "https://open.feishu.cn/open-apis/bot/v2/hook/72849d75-820d-4189-9f57-a5fec7d2ea2d"
+url = "https://kim-robot.kwaitalk.com/api/robot/send?key=8fdeee00-9bb9-4de2-bae7-a0833eea5759"
 # payload = json.dumps({
 # 	"content": "{\"text\":\"test content\"}",
 # 	"msg_type": "text",
