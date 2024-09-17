@@ -10,6 +10,7 @@ url = "https://kim-robot.kwaitalk.com/api/robot/send?key=8fdeee00-9bb9-4de2-bae7
 # 	"uuid": "选填，每次调用前请更换，如a0d69e20-1dd1-458b-k525-dfeca4015204"
 # })
 payload=json.dumps({
+    "groupIds":["5191893528061733"],
 	"msgtype": "text",
   "text": {
        "content":  f'request example--{time.strftime("%Y-%m-%d %H:%M:%S",time.localtime())}'
