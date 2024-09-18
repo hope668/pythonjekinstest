@@ -2,7 +2,7 @@ import time
 
 import requests
 import json
-url = "https://kim-robot.kwaitalk.com/api/robot/send?key=8fdeee00-9bb9-4de2-bae7-a0833eea5759"
+url = 11
 # payload = json.dumps({
 # 	"content": "{\"text\":\"test content\"}",
 # 	"msg_type": "text",
